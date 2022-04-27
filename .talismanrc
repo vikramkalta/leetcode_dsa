@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: dp1/WaysToDecode.java
+  checksum: df571eb4023da417ead89b42fa3571f306161e47047ffcb3e8affdd505c5dccc
+- filename: arrays/TwoSums.java
+  checksum: 24c8baeae9701516cd7bb72fb83eadbcf6eabefffddbaf20cebd657d55cd9bb1
+- filename: trees/VerticalOrderTraversal.java
+  checksum: d6fe773f3859a762a0f2f782713029dd7d37899d028b1cbe8a7c505374a4df87
+version: ""
