@@ -1,8 +1,18 @@
 {
     "java.project.sourcePaths": [
+        "trees_practise",
         "trees",
+        "stacks",
+        "sliding_window",
+        "linked-list",
+        "intervals",
+        "heaps",
+        "graphs",
+        "dp2",
         "dp1",
+        "bst",
+        "backtracking",
         "arrays",
-        "dp2"
+        "amazon"
     ]
 }
