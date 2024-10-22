@@ -1,18 +1,23 @@
 {
     "java.project.sourcePaths": [
+        "twitter",
         "trees_practise",
         "trees",
         "stacks",
         "sliding_window",
+        "matrix",
+        "lru",
         "linked-list",
         "intervals",
         "heaps",
+        "hashmap",
         "graphs",
         "dp2",
         "dp1",
         "bst",
         "backtracking",
         "arrays",
-        "amazon"
+        "amazon",
+        "greedy"
     ]
 }
